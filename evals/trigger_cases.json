@@ -1,0 +1,1 @@
+{"positive_concepts": {"task": ["字幕", "双语", "koubo-bilingual-subtitles"]}, "description_required_concepts": [], "recommended_threshold": 0.1, "negative_patterns": ["写一首诗"], "should_trigger": [{"text": "请为已锁定时间的口播制作中英双语字幕，中文主行英文辅行，检查遮挡和接缝。"}, {"text": "koubo-bilingual-subtitles 中英双语字幕"}], "should_not_trigger": [{"text": "写一首诗"}], "near_neighbor": [{"text": "只帮我改一个文件名"}]}
